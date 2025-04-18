@@ -9,12 +9,12 @@ define('DB_NAME', 'newsletter_subscriptions');
 define('MAIL_MAILER', 'smtp');
 define('MAIL_HOST', 'smtp.gmail.com');
 define('MAIL_PORT', 587);
-define('MAIL_USERNAME', 'hassan.el.dika8@gmail.com');
-define('MAIL_PASSWORD', 'ghoqsprokfhavzdp');
+define('MAIL_USERNAME', '');
+define('MAIL_PASSWORD', '');
 define('MAIL_ENCRYPTION', 'tls');
-define('MAIL_FROM_ADDRESS', 'hassan.el.dika8@gmail.com');
-define('MAIL_TO_ADDRESS', 'hassan.el.dika8@gmail.com');
-define('EMAIL_SUBJECT', 'Confirm Your Subscription');
+define('MAIL_FROM_ADDRESS', '');
+define('MAIL_TO_ADDRESS', '');
+define('EMAIL_SUBJECT', '');
 
 // Website URL
 define('BASE_URL', 'https://89d3-105-160-84-48.ngrok-free.app');
